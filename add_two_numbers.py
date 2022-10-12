@@ -19,7 +19,7 @@ def main():
 
     # output
     print("")
-    print("The sum of the two integers is {0}.".format(sum_of_integers))
+    print("{0} + {1} = {2}.".format(first_integer, second_integer, sum_of_integers))
 
     print("\nDone.")
 
